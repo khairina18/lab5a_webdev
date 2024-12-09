@@ -19,7 +19,7 @@
         }
 
         // Generate table for multiplier 5
-        $multiplicationTable = multiplication(2);
+        $multiplicationTable = multiplication(5);
     ?>
 
     <table border="1">
